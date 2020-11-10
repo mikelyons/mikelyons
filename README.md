@@ -6,7 +6,7 @@ Professional Skills
 ## Software: 
 React, React Native, Node, Backbone, Selenium, jQuery, Rails, Wordpress, Git, Vim, bash
 
-##Languages: 
+## Languages: 
 Ruby, Javascript, CoffeeScript, PHP, CSS, SCSS/SASS/LESS, HTML5, CSS3, Python, C++, Java
 
 ## Project Management Tools:
