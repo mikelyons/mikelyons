@@ -1,32 +1,48 @@
-# Mike Lyons
+# :vulcan_salute: Greetings
+:man_technologist: Mike is an enthusiastic independent developer with experience working domestically and overseas in technical leadership and extensive full stack engineering. He has worked on teams for large global brands like Disney and Apple, and has worked on small teams in startups disrupting at breakneck pace. Versatility and extreme competence are Mike’s modus operandi. Over ten years of full stack web experience and five years focused on front end makes Mike a world class master of the modern web.
 
-Mike is an enthusiastic independent developer with experience working domestically and overseas in technical leadership and extensive full stack engineering. He has worked on teams for large global brands like Disney and Apple, and has worked on small teams in startups disrupting at breakneck pace. Versatility and extreme competence are Mike’s modus operandi. Over ten years of full stack web experience and five years focused on front end makes Mike a world class master of the modern web.
+##### Software:
+:atom_symbol: React & React Native
 
-## Professional Skills
+:electron: Redux
 
-### Software: 
-React, React Native, Node, Backbone, Selenium, jQuery, Rails, Wordpress, Git, Vim, bash
+:atom: Node
 
-### Languages: 
-Ruby, Javascript, CoffeeScript, PHP, CSS, SCSS/SASS/LESS, HTML5, CSS3, Python, C++, Java
+###### :book: Legacy 
+Backbone, Selenium, jQuery, Rails, Wordpress, Git, Vim, bash
 
-### Project Management Tools:
+##### Languages: 
+:coffee: Javascript
+
+:memo: HTML & CSS - SCSS/SASS/LESS, HTML5/HAML, CSS3/Stylus
+
+:gem: Ruby
+
+:elephant:PHP
+
+:snake: Python
+
+:desktop_computer: C++ & Java
+
+##### :office: Project Management Tools:
 JIRA, Confluence, Trello, Pivotal, YoDiz, Basecamp, LighthouseApp, Salesforce
 
-### Databases: 
+##### :floppy_disk: Databases: 
 MySQL, SQLite, PostgreSQL, Apigee, redis
 
-### Hardware: 
+##### :computer: Hardware: 
 Mac, PC desktop, Apple mobile devices
 
-### Industries: 
+##### :necktie: Industries: 
 Tech support, White-label consumer cloud, eCommerce, web marketing, business technology consulting, web-based enterprise solutions
 
-### Operating Systems: 
-Mac OS X, WIndows 10 and earlier, Debian and Ubuntu Linux, iOS
+##### :house: Operating Systems: 
+Mac OS X, Windows 10 and earlier, Debian and Ubuntu Linux, iOS
 
-### Methodologies: 
-Agile, SCRUM, Kanban, Waterfall SDLC
+##### Methodologies: 
+:curly_loop: Agile, SCRUM, Kanban
 
-## Contact me: 
+:book: Waterfall SDLC
+
+# :mailbox_with_mail: Contact me: 
 [Lyons.MR at gmail dot com](mailto:lyons.mr@gmail.com)
