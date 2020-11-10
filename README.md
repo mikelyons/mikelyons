@@ -1,3 +1,4 @@
+<!-- https://awes0mem4n.github.io/emojis-github.html -->
 # :vulcan_salute: Greetings
 :man_technologist: Mike is an enthusiastic independent developer with experience working domestically and overseas in technical leadership and extensive full stack engineering. He has worked on teams for large global brands like Disney and Apple, and has worked on small teams in startups disrupting at breakneck pace. Versatility and extreme competence are Mike’s modus operandi. Over ten years of full stack web experience and five years focused on front end makes Mike a world class master of the modern web.
 
